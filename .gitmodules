@@ -1,0 +1,9 @@
+[submodule "src/f1tenth_gym_ros"]
+	path = src/f1tenth_gym_ros
+	url = https://github.com/goodash2one/f1tenth_gym_ros.git
+[submodule "src/slam_toolbox"]
+	path = src/slam_toolbox
+	url = https://github.com/goodash2one/slam_toolbox.git
+[submodule "src/particle_filter"]
+	path = src/particle_filter
+	url = https://github.com/goodash2one/particle_filter.git
