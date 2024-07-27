@@ -56,3 +56,6 @@ docker run -it \
 
 	#--name=rtss_20240510\
 	#$GPU\
+
+ # 설정을 다시 해줘야 함
+ # https://hanseokhyeon.tistory.com/entry/Mac-Docker-에서-GUI-사용하기-python-matplotlib-사용하기
