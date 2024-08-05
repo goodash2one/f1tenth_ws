@@ -1,2 +1,0 @@
-rosbag/rosbag2_levine/rosbag2_levine_0.db3 filter=lfs diff=lfs merge=lfs -text
-rosbag/rosbag2_track/rosbag2_track_0.db3 filter=lfs diff=lfs merge=lfs -text
